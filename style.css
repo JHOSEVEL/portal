@@ -85,3 +85,14 @@ article h2{
 #economia,#technologia{
     background-color: rgb(248, 226, 197,0.5);
 }
+
+footer{
+    width: 90%;
+    height: 200px;
+    background-color: blueviolet;
+}
+.roda-pe{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
